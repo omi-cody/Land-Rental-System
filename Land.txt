@@ -1,0 +1,9 @@
+Kathmandu, North, 4, 50000, Available
+Bhaktapur, East, 5, 60000, Available
+Lalitpur, South, 10, 100000, Not Available
+Bharatpur, East, 20, 590000, Available
+Janakpur, West, 50, 990000, Available
+chitwan , North, 2, 100000, Available
+Biratnagar, East, 10, 15000, Available
+Kanchanpur, West, 20, 25500, Available
+Birtamode, South, 15, 13000, Available
